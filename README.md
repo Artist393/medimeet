@@ -2,6 +2,8 @@
 A healthcare appointment booking platform built with **Next.js**, **Prisma**, and **Postgres**.  
 
 ✨ Key Features  
+- Secure patient & doctor **authentication** with **Clerk**  
+- Appointment booking with **concurrency handling** (row-level locking)  
 - **User authentication** (Login & Signup) with **Clerk**  
 - **Doctor & patient role-based access**  
 - **Appointment booking system** with Prisma ORM  
@@ -20,3 +22,22 @@ A healthcare appointment booking platform built with **Next.js**, **Prisma**, an
 ```bash
 git clone https://github.com/Artist393/medimeet.git
 cd medimeet
+
+📸 Screenshots  
+
+**Dashboard Page**  
+![Login](./screenshots/dashboard.png)  
+
+**Doctor Verification Page**  
+![Signup](./screenshots/DoctorVerification.png)  
+
+**Onboarding Page**  
+![Booking](./screenshots/Onboarding.png)  
+
+**Subscription Plans Page**  
+![Booking](./screenshots/Subscriptions.png)  
+
+**Working Page**  
+![Booking](./screenshots/Working.png)  
+
+
