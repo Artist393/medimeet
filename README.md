@@ -26,18 +26,19 @@ cd medimeet
 📸 Screenshots  
 
 **Dashboard Page**  
-![Login](./screenshots/dashboard.png)  
+![Dashboard](./screenshots/dashboard.png)  
 
 **Doctor Verification Page**  
-![Signup](./screenshots/DoctorVerification.png)  
+![Doctor Verification](./screenshots/DoctorVerification.png)  
 
 **Onboarding Page**  
-![Booking](./screenshots/Onboarding.png)  
+![Onboarding](./screenshots/Onboarding.png)  
 
 **Subscription Plans Page**  
-![Booking](./screenshots/Subscriptions.png)  
+![Subscriptions](./screenshots/Subscriptions.png)  
 
 **Working Page**  
-![Booking](./screenshots/Working.png)  
+![Working](./screenshots/Working.png)  
+ 
 
 
